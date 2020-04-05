@@ -1,8 +1,7 @@
 Sitemap: http://said-theta.now.sh/sitemap.xml
 
-User-agent: NerdyBot
-Disallow: /
+User-agent: Googlebot
+Disallow: /nogooglebot/
 
 User-agent: *
-Disallow: /ajax/
-Disallow: /apps/
+Allow: /
