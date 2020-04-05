@@ -11,6 +11,10 @@
       <loc>http://said-theta.now.sh/index2.html</loc>
 
       <lastmod>2020-04-05</lastmod>
+      
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
   </url>
 
 </urlset> 
