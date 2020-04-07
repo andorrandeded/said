@@ -4,20 +4,17 @@
 
    <url>
 
-      <loc>http://said-theta.now.sh/</loc>
+      <loc>https://said-theta.now.sh/</loc>
 
       <lastmod>2020-04-05</lastmod>
       <priority>0.80</priority>
-      <loc>http://said-theta.now.sh/uses</loc>
-         <lastmod>2020-04-05</lastmod>
+      <loc>https://said-theta.now.sh/uses</loc>
+       <lastmod>2020-04-05</lastmod>
       <priority>0.80</priority>
-      <loc>http://said-theta.now.sh/aswan</loc>
-
+      <loc>https://said-theta.now.sh/aswan</loc>
       <lastmod>2020-04-05</lastmod>
       <priority>0.80</priority>
-      <changefreq>monthly</changefreq>
-
-      <priority>0.8</priority>
+      <changefreq>daily</changefreq>
   </url>
 
 </urlset> 
